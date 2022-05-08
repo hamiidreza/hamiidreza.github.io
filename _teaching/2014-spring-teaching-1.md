@@ -2,7 +2,7 @@
 title: "Cryptology"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://kursuskatalog.au.dk/en/course/100511/Cryptology
+#permalink: https://kursuskatalog.au.dk/en/course/100511/Cryptology
 venue: "University 1, Department"
 date: Fall 2020
 location: "City, Country"

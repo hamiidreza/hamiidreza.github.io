@@ -42,5 +42,4 @@ External Reviewer
 * TCC: 2021
 * FC: 2018, 2022
 * PKC: 2019
-*
   
