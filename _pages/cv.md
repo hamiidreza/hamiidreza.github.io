@@ -15,7 +15,7 @@ Education
 	* Thesis: ...
 	* Advisor: Jesper Buus Nielsen
 * M.S. in Computer Science, Sharif University, 2014
-	* Thesis: Auxiliary Input Leakage Model for Public-Key Cryptosystems
+	* Thesis: Public-Key Cryptosystems Resilient to Hard-to-Invert Leakage
 	* Advisor: Shahram Khazaei
 * B.S. in Mathematics, KNTU University, 2012
 
@@ -37,5 +37,10 @@ Teaching
  
 External Reviewer
 ======
-* Hello
+* CRYPTO: 2020, 2021, 2022
+* EUROCRYPT: 2021
+* TCC: 2021
+* FC: 2018, 2022
+* PKC: 2019
+*
   

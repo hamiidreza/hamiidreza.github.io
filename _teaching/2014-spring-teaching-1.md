@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Cryptology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: https://kursuskatalog.au.dk/en/course/100511/Cryptology
 venue: "University 1, Department"
-date: 2014-01-01
+date: Fall 2020
 location: "City, Country"
 ---
 
@@ -12,9 +12,11 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
+taught by Ivan Damgård
 
 Heading 2
 ======
+Aarhus University
 
 Heading 3
 ======
