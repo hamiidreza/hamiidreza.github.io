@@ -4,7 +4,7 @@ main:
     url: /about/ 
     
   - title: "Publications"
-    url: "https://dblp.org/pid/251/1432.html"     
+    url: "https://dblp.org/pid/251/1432.html" target="_blank"     
     
   - title: "CV"
     url: /cv/
