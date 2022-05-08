@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, KNTU University, 2012
-* M.S. in Computer Science, Sharif University, 2014
 * Ph.D in Computer Science, Aarhus University, 2022 (expected)
+	* Thesis: ...
+	* Advisor: Jesper Buus Nielsen
+* M.S. in Computer Science, Sharif University, 2014
+	* Thesis: Auxiliary Input Leakage Model for Public-Key Cryptosystems
+	* Advisor: Shahram Khazaei
+* B.S. in Mathematics, KNTU University, 2012
+
 
 
 Publications
