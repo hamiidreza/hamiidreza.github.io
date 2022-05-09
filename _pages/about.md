@@ -15,4 +15,4 @@ Prior to starting my Ph.D., I earned a masters in Computer Science from Sharif U
 
 News
 ======
-* Oct 2021–Jan 2022, I was visiting <a href="https://www.dariofiore.it/">Dario Fiore</a> at IMDEA in Madrid, Spain.
+* Oct 2021–Jan 2022, I am visiting <a href="https://www.dariofiore.it/">Dario Fiore</a> at IMDEA in Madrid, Spain.
