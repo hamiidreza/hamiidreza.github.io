@@ -1,8 +1,8 @@
 ---
-title: "<a href="https://kursuskatalog.au.dk/en/course/100511/Cryptology">A Course in Cryptography</a>, Spring 2015"
+title: "A Course in Cryptography, Spring 2015"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+url: "https://multipartycomputation.blogspot.com/p/multiparty-computation.html"
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
