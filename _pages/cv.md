@@ -21,7 +21,7 @@ Education
 * M.S. in Computer Science, Sharif University, 2014
 	* Thesis: Public-Key Cryptosystems Resilient to Hard-to-Invert Leakage
 	* Advisor: Shahram Khazaei
-* B.S. in Mathematics, KNTU University, 2012
+* B.S. in Mathematics, K.N.Toosi University, 2012
 
 
 
