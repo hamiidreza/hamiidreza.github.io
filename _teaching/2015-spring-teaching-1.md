@@ -1,5 +1,5 @@
 ---
-title: "[<a href="https://kursuskatalog.au.dk/en/course/100511/Cryptology">A Course in Cryptography</a>, Spring 2015"
+title: "<a href="https://kursuskatalog.au.dk/en/course/100511/Cryptology">A Course in Cryptography</a>, Spring 2015"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
