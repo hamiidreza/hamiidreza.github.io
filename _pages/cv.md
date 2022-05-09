@@ -11,7 +11,7 @@ redirect_from:
 
 Employment
 ======
-
+* 
 
 Education
 ======
