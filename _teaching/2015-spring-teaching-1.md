@@ -2,7 +2,6 @@
 title: "A Course in Cryptography, Spring 2015"
 collection: teaching
 type: "Workshop"
-url: "https://multipartycomputation.blogspot.com/p/multiparty-computation.html"
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"

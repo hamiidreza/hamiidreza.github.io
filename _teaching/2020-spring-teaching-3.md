@@ -2,7 +2,7 @@
 title: "Computability & Logic, Spring 2020"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+link: "https://kursuskatalog.au.dk/en/course/97743/Computability-and-Logic"
 venue: "University 1, Department"
 date: 2020-01-01
 location: "City, Country"
