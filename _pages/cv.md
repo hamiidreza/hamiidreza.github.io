@@ -11,7 +11,7 @@ redirect_from:
 
 Employment
 ======
-* 
+* Researcher at Concordium, 2022-
 
 Education
 ======
