@@ -1,5 +1,5 @@
 ---
-title: "A Course in Cryptography, Spring 2015"
+title: "[A Course in Cryptography]("/sdsd/"), Spring 2015"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
