@@ -11,7 +11,7 @@ redirect_from:
 
 Employment
 ======
-* Researcher at Concordium, 2022-
+* Researcher at <a href="https://www.concordium.com/">Concordium</a>, 2022-
 
 Education
 ======
@@ -25,7 +25,7 @@ Education
 
 Publications
 ======
-List of my publications <a href="https://dblp.org/pid/251/1432.html">link text</a> are available at [DBLP]("https://dblp.org/pid/251/1432.html") and [Google Scholar]("https://scholar.google.com/citations?user=5KhiILoAAAAJ&hl=en").
+List of my publications are available at <a href="https://dblp.org/pid/251/1432.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=5KhiILoAAAAJ&hl=en">Google Scholar</a>.
   
   
 Teaching
