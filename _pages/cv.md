@@ -25,9 +25,7 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+List of my publications are available at [DBLP]("https://dblp.org/pid/251/1432.html") and [Google Scholar]("https://scholar.google.com/citations?user=5KhiILoAAAAJ&hl=en").
   
   
 Teaching
