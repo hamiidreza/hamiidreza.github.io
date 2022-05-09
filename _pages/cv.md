@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+
+
 Education
 ======
 * Ph.D in Computer Science, Aarhus University, 2022 (expected)
