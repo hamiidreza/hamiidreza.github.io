@@ -2,7 +2,7 @@
 title: "Distributed Systems & Security, Fall 2019"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+link: "https://multipartycomputation.blogspot.com/p/multiparty-computation.html"
 venue: "University 1, Department"
 date: 2019-01-01
 location: "City, Country"
