@@ -16,7 +16,7 @@ Employment
 Education
 ======
 * Ph.D in Computer Science, Aarhus University, 2022 (expected)
-	* Thesis: ..., Advisor: Jesper Buus Nielsen
+	* Thesis: Cryptography for Scalability and Identity Management in Blockchain Systems, Advisor: Jesper Buus Nielsen
 * M.S. in Computer Science, Sharif University, 2014
 	* Thesis: Public-Key Cryptosystems Resilient to Hard-to-Invert Leakage, Advisor: Shahram Khazaei
 * B.S. in Mathematics, K.N.Toosi University, 2012
