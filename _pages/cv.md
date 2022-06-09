@@ -11,12 +11,12 @@ redirect_from:
 
 Employment
 ======
-* Researcher at <a href="https://www.concordium.com/">Concordium</a>, 2022-
+* Research Scientist at <a href="https://www.concordium.com/">Concordium</a>, 2022-
 
 Education
 ======
 * Ph.D in Computer Science, Aarhus University, 2022 (expected)
-	* Thesis: Cryptography for Scalability and Identity Management of Blockchain Systems <a href="/cv/">[PDF]</a>, Advisor: Jesper Buus Nielsen
+	* Thesis: Cryptography for Scalability and Identity Management of Blockchain Systems <a href="files/thesis.pdf">[PDF]</a>, Advisor: Jesper Buus Nielsen
 * M.S. in Computer Science, Sharif University, 2014
 	* Thesis: Public-Key Cryptosystems Resilient to Hard-to-Invert Leakage, Advisor: Shahram Khazaei
 * B.S. in Mathematics, K.N.Toosi University, 2012
