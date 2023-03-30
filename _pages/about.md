@@ -21,5 +21,7 @@ Prior to starting my Ph.D., I earned a masters in Computer Science from Sharif U
 
 News
 ======
-* **Aug 25, 2022** -- Encryption to the Future <a href="https://eprint.iacr.org/2021/1423.pdf">(PDF)</a> has been accepted at Asiacrypt 2022!
+* **Aug 31, 2022** -- Defended my PhD thesis titled <a href="/thesis.pdf">Cryptography for Scalability and Identity in Blockchain Applications</a>.
+* **Aug 25, 2022** -- Encryption to the Future <a href="https://eprint.iacr.org/2021/1423.pdf">(PDF)</a> has been accepted at Asiacrypt 2022.
+* **Apr 15, 2022** -- I will be joining <a href="https://concordium.com/">Concordium </a> as a cryptography researcher from the beginning of June, 2022.
 * **Oct 2021–Jan 2022** -- Visited <a href="https://www.dariofiore.it/">Dario Fiore</a> at IMDEA in Madrid, Spain.
