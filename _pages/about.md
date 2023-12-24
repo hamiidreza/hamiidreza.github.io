@@ -21,6 +21,7 @@ Prior to starting my Ph.D., I earned a masters in Computer Science from Sharif U
 
 News
 ======
+* **Dec 22, 2023** -- Witness Encryption for Functional Commitments <a href="https://eprint.iacr.org/2022/1510.pdf">(PDF)</a> got accepted at PKC 2023.
 * **Aug 31, 2022** -- Defended my <a href="/thesis.pdf">PhD thesis</a> titled "Cryptography for Scalability and Identity in Blockchain Applications".
 * **Aug 25, 2022** -- Encryption to the Future <a href="https://eprint.iacr.org/2021/1423.pdf">(PDF)</a> has been accepted at Asiacrypt 2022.
 * **Apr 15, 2022** -- I will be joining <a href="https://concordium.com/">Concordium </a> as a cryptography researcher from the beginning of June, 2022.
