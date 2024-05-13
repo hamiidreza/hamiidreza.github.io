@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hamidreza Khoshakhlagh"
 title_separator          : "-"
 name                     : &name "Hamidreza Khoshakhlagh"
-description              : &description "Research Scientist at Concordium"
+description              : &description "Postdoc researcher at Aarhus University"
 url                      : https://hamiidreza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hamidreza Khoshakhlagh"
   avatar           : "profile.png"
-  bio              : "Research Scientist at Concordium"
+  bio              : "Postdoc researcher at Aarhus University"
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5KhiILoAAAAJ&hl=en"
-  email            : "hk@concordium.com"
+  email            : "hamidreza@cs.au.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

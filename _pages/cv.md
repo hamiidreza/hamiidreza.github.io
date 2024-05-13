@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* Research Scientist at <a href="https://www.concordium.com/">Concordium</a>, 2022-Present
+* Postdoc reseacher at Aarhus University, April 2024-Present
+* Research Scientist at <a href="https://www.concordium.com/">Concordium</a>, June 2022-March 2024
 
 Education
 ======
