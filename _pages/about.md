@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc researcher in the <a href="https://cs.au.dk/~orlandi/cryptogroup/">Cryptography and Security Group </a> at Aarhus University, since April 2024. Before that, I was a cryptography researcher at <a href="https://concordium.com/">Concordium </a> from June 2022 to March 2024. Prior to that, I was a PhD student at Aarhus University from June 2019 to May 2022, under the supervision of <a href="https://multipartycomputation.blogspot.com/p/multiparty-computation.html">Jesper Buus Nielsen</a>. I obtained my master's degree in Computer Science from Sharif University of Technology under the guidance of <a href="http://sharif.ir/~shahram.khazaei/home.html">Shahram Khazaei</a>.
+I'm a postdoc researcher in the <a href="https://cs.au.dk/~orlandi/cryptogroup/">Cryptography and Security Group </a> at Aarhus University, since April 2024. Before that, I was a cryptography researcher at <a href="https://concordium.com/">Concordium </a> from June 2022 to March 2024. Prior to that, I was a PhD student at Aarhus University from June 2019 to May 2022, under the supervision of <a href="https://multipartycomputation.blogspot.com/p/multiparty-computation.html">Jesper Buus Nielsen</a>, with <a href="https://www.binarywhales.com/">Matteo Campanneli</a> and <a href="https://cs.au.dk/~ivan/">Ivan Damgård</a> as co-supervisors. I obtained my master's degree in Computer Science from Sharif University of Technology under the guidance of <a href="http://sharif.ir/~shahram.khazaei/home.html">Shahram Khazaei</a>.
 
 
 My research is mainly focused on privacy-preserving technologies for blockchains, particularly proof systems with desirable properties, such as succinctness and zero knowledge.
