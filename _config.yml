@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hamidreza Khoshakhlagh"
 title_separator          : "-"
 name                     : &name "Hamidreza Khoshakhlagh"
-description              : &description "Postdoc researcher at Aarhus University"
+description              : &description "Industrial researcher at Partisia"
 url                      : https://hamiidreza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hamidreza Khoshakhlagh"
   avatar           : "profile.png"
-  bio              : "Postdoc researcher at Aarhus University"
+  bio              : "Industrial researcher at Partisia"
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
