@@ -36,12 +36,16 @@ Teaching
   {% endfor %}</ul>
  
  
+Program Committees
+======
+* ACNS: 2025
+
 External Reviewer
 ======
-* CRYPTO: 2020, 2021, 2022, 2023
-* EUROCRYPT: 2021, 2022
+* CRYPTO: 2023, 2022, 2021, 2020
+* EUROCRYPT: 2025, 2022, 2021
 * ASIACRYPT: 2023
 * TCC: 2021
-* FC: 2018, 2022
+* FC: 2022, 2018
 * PKC: 2019
   
