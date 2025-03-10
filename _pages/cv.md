@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* Postdoc reseacher at Aarhus University, April 2024-Present
+* Industrial researcher at Partisia, August 2024-Present
+* Postdoc researcher at Aarhus University, April 2024-July 2024
 * Research Scientist at <a href="https://www.concordium.com/">Concordium</a>, June 2022-March 2024
 
 Education
